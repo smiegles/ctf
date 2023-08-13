@@ -6,7 +6,7 @@ set :logging, false
 set :show_exceptions, false
 
 auth = 'iohugsdfksjdfhuiwegrwehrgyuwer'
-flag = 'flag{this_is_a_real_flag}'
+flag = 'ASV{this_is_a_real_flag}'
 
 get '/' do
    'Welcome! <a href="/download?p=info">Info</a>'
